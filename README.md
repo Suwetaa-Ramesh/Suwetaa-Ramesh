@@ -1,11 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suwetaa-ramesh.suwetaa-ramesh">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Suwetaa+Ramesh!+👋;Welcome+to+my+GitHub+profile!;Feel+free+to+explore...&center=true&size=30&color=00BFFF">
-  </a>
+  <span style="font-size: 2.5em; color: #61DAFB;">👋 Hello there!</span><br>
+  <span style="font-size: 2em; color: #f0db4f;">I'm Suwetaa Ramesh</span><br>
 </h1>
-
 
 
 ## About me
