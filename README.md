@@ -2,7 +2,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suwetaa-ramesh.suwetaa-ramesh">
 
 <!-- Header -->
-<!-- Header -->
 <a href="https://github.com/Suwetaa-Ramesh#gh-light-mode-only">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey!%20It's%20Suwetaa%20Ramesh&fontAlign=40&fontAlignY=30&color=b19cd9&fontSize=50&desc=&descSize=15&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
 </a>
