@@ -19,7 +19,7 @@
     <tr>
       <td align="center" width="45%">
         <!-- Most Used Languages -->
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
+         <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab#gh-dark-mode-only" />
       </td>
       <td align="center" width="45%">
         <!-- GitHub Stats -->
