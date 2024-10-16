@@ -83,24 +83,7 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <!-- Contribution Graph -->
-        <a href="https://github.com/Suwetaa-Ramesh#gh-light-mode-only">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suwetaa-Ramesh&theme=dracula&bg_color=d0bff2&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph&title_color=ede6fa#gh-light-mode-only" alt="Suwetaa's github activity graph" width="100%" />
-        </a>
-        <a href="https://github.com/Suwetaa-Ramesh#gh-dark-mode-only">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suwetaa-Ramesh&theme=dracula&bg_color=2b1557&hide_border=true&area_color=351678&area=true&radius=16&point=9770e6&custom_title=My%20Contribution%20Graph&title_color=ede6fa#gh-dark-mode-only" alt="Suwetaa's github activity graph" width="100%" />
-        </a>  
-      </td>
     </tr>
   </tbody>
 </table>
 
-<!-- Footer -->
-<a href="https://github.com/Suwetaa-Ramesh#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=130&color=gradient&customColorList=11,13,15,17,20,21,24,25,27,28,29&fontSize=50#gh-light-mode-only" alt="Footer" width="100%" />
-</a>
-<a href="https://github.com/Suwetaa-Ramesh#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=130&color=gradient&customColorList=1,5,7,9,12,15,17,19,22,24,26,28&fontSize=50#gh-dark-mode-only" alt="Footer" width="100%" />
-</a>
