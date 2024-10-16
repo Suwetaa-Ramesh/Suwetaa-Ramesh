@@ -1,88 +1,70 @@
-<!-- Header -->
-<a href="https://github.com/Suwetaa-Ramesh#gh-light-mode-only">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey!%20It's%20Suwetaa%20Ramesh&fontAlign=40&fontAlignY=30&&color=gradient&customColorList=1,3,6,7,10,12,14,18,20,22,24,25,30&animation=twinkling&fontSize=50&desc=Welcome%20to%20my%20profile!&descSize=15&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
-</a>
-<a href="https://github.com/Suwetaa-Ramesh#gh-dark-mode-only" width="30">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey!%20It's%20Suwetaa%20Ramesh&fontAlign=40&fontAlignY=30&color=gradient&customColorList=1,2,9,6,7,10,16,18,20,22,24,25&animation=twinkling&fontSize=50&desc=Welcome%20to%20my%20profile!&descSize=15&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
-</a>
-<!-- banner -->
-<a href="https://github.com/Suwetaa-Ramesh"><img src="https://readme-typing-svg.demolab.com?font=Dina&size=17&duration=2000&pause=900&color=D840C3&center=True&lines=Hi+there+%F0%9F%91%8B!;Thanks+for+stopping+by+%F0%9F%98%8A;So+something+about+myself%3F+%F0%9F%A4%94;I'm+from+India+%F0%9F%87%AE%F0%9F%87%B3;I'm+good+with+tech+stuff+%F0%9F%A4%93;I+mean...+a+little+bit+good;mostly+confused+and+curious+%F0%9F%99%83;Love+to+know+about+you+too!+%E2%9D%A4%EF%B8%8F;Let's+connect!+%F0%9F%98%87%E2%9D%A4%EF%B8%8F;+" width="100%" /></a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suwetaa-ramesh.suwetaa-ramesh">
 
-<table align="center">
-  <thead>
-  <tr>
-    <td align="center" width="30%" >
-    <!-- gif r1c1-->
-<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-light-mode-only" align=center>
-<!--START_SECTION:update_image_light-->
-<img src="https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/light_mode/white_13.gif#gh-light-mode-only" title="Hello! 😇💜" height=55% width=55% align=center alt=Just some gif />
-<!--END_SECTION:update_image_light-->
-</a>
-<a href="https://i.pinimg.com/564x/4a/02/72/4a0272ad2149bfc22e7131545c6dc509.jpg#gh-dark-mode-only" align=center>
-<!--START_SECTION:update_image_dark-->
-<img src="https://raw.githubusercontent.com/ThisIsSakshi/ThisisSakshi/main/.github/images/dark_mode/b9.gif#gh-dark-mode-only" title="Hello! 😇💙" height=55% width=55% align=center alt=Just some gif />
-<!--END_SECTION:update_image_dark-->
-</a>
-</td>
-<td align="center" colspan="3">
-<!-- github stats r1c2 -->
-<a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-light-mode-only">
-<picture>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only" width="470"/>
-</picture>
-</a>
-<a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-dark-mode-only">
-<picture>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only"  width="470" />
-</picture>
-</a>
+<h1 align="center">
+  <span style="font-size: 2.5em; color: #61DAFB;">👋 Hello there!</span><br>
+  <span style="font-size: 2em; color: #f0db4f;">I'm Suwetaa Ramesh</span><br>
+</h1>
 
-  </td>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td align="center" width="45%">
-    <!-- Connection request r2c1-->
-      <a href="https://github.com/Suwetaa-Ramesh#gh-light-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=1,3,4,14,15,18,20,24,25,26,27,28#gh-light-mode-only" alt="Let's connect" /> </a>
-      <a href="https://github.com/Suwetaa-Ramesh#gh-dark-mode-only"> <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let's%20Connect&fontSize=70&de&animation=fadeIn&color=gradient&customColorList=2,9,16,19,20,21,22,23,24,25#gh-dark-mode-only" alt="let's connect" /> </a>
-      
-  <!-- linkedIn -->
-  [<img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/suwetaa-ramesh-7b8536115/)
-  &nbsp;<!-- GitHub -->
-  [<img align="center" alt="GitHub" title="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/1006/1006620.png" />](https://www.github.com/Suwetaa-Ramesh)
-  &nbsp;<!-- Gmail -->
-  [<img align="center" alt="Gmail" title="Gmail" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />](mailto:suwetaa.ramesh@gmail.com)
-    </td>
-    <td align="center" colspan="3">
-    <!-- Most language used r2c2 -->
-    <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg#gh-dark-mode-only">
-    <picture>
-      <img width="470" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab#gh-dark-mode-only" />
-    </picture>
-    </a>
-    <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg#gh-light-mode-only">
-    <picture>
-      <img width="470" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only"/>
-    </picture>
-    </a>
-      </td>
-    </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td align="center" >
-        <!-- profile view count r3c1-->
-        <a href="https://i.pinimg.com/originals/fd/c6/a1/fdc6a1865eb1789ee20577a3f48107eb.gif">
-          <img src="https://count.chiya.dev/get/@Suwetaa-Ramesh?theme=rule34" alt="Profile view count" width="100%"/>
-        </a>
-        </td>
-        <td align="center" colspan="3">
-        <!-- My Contribution r3c2 -->
-        <a href="https://i.pinimg.com/originals/7d/1a/74/7d1a741b756c8e89e09df59829d8971c.gif">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Suwetaa-Ramesh&theme=react-dark&hide_border=true&area=true" width="100%"/>
-        </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+
+## About me
+
+I'm a passionate Full Stack Developer with over 6 years of experience in the dynamic world of IT. My work includes developing scalable systems and optimizing application performance where I am driven by a strong desire to create impactful solutions. I am excited about the potential of technology and eager to contribute to projects that make a difference.
+
+## What I Do
+
+- 💡 **Tech Enthusiast:** I am always eager to learn, discuss, and embrace new technologies.
+- 🚀 **Full Stack Development:** From frontend to backend, I enjoy developing scalable and efficient solutions.
+- 🌱 **Sustainability Advocate:** I believe in using technology for positive environmental and societal impact.
+- 👯 **Team Player:** Ready to collaborate and bring innovative digital visions to life.
+
+## Current Focus
+
+I'm currently diving deep into:
+- Enhancing my skills with the latest frameworks and tools.
+- Contributing to open-source projects and exploring cutting-edge technologies.
+- Optimizing performance and ensuring code quality.
+
+## :handshake: Connect with me!
+
+<div align=center>
+  <a href="https://www.linkedin.com/in/suwetaa-ramesh-7b8536115/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
+  </a>
+  <a href="https://www.github.com/Suwetaa-Ramesh">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+  </a>
+  <a href="mailto:suwetaa.ramesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="GMail"/>
+  </a>
+</div>
+
+## :man_technologist: Software languages
+
+<div align=center>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript"  alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
+## :hammer_and_wrench: Software tools
+
+<div align=center>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  </div>
