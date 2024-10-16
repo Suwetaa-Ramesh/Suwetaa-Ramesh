@@ -19,25 +19,21 @@
     <tr>
       <td align="center" width="45%">
         <!-- Most Used Languages -->
-          <picture>
-            <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab#gh-dark-mode-only" />
-          </picture>
-  
-
-          <picture>
-            <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only"/>
-          </picture>
-
+        <picture>
+          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
+        </picture>
+        <picture>
+          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5"/>
+        </picture>
       </td>
       <td align="center" width="45%">
         <!-- GitHub Stats -->
-          <picture>
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only" width="470"/>
-          </picture>
-      
-          <picture>
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only" width="470" />
-          </picture>
+        <picture>
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5" width="470"/>
+        </picture>
+        <picture>
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab" width="470" />
+        </picture>
       </td>
     </tr>
   </thead>
@@ -51,19 +47,19 @@
         <a href="https://github.com/Suwetaa-Ramesh#gh-dark-mode-only">
           <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let%27s%20Connect&fontSize=70&color=gradient&customColorList=2,9,16,19,20,21,22,23,24,25#gh-dark-mode-only" alt="Let's Connect" /> 
         </a>
-       <div align="center">
-  <a href="https://www.linkedin.com/in/suwetaa-ramesh-7b8536115/" target="_blank">
-    <img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />
-  </a>
-  &nbsp;
-  <a href="https://www.github.com/Suwetaa-Ramesh" target="_blank">
-    <img align="center" alt="GitHub" title="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-  </a>
-  &nbsp;
-  <a href="mailto:suwetaa.ramesh@gmail.com" target="_blank">
-    <img align="center" alt="Email" title="Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />
-  </a>
-</div>
+        <div align="center">
+          <a href="https://www.linkedin.com/in/suwetaa-ramesh-7b8536115/" target="_blank">
+            <img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />
+          </a>
+          &nbsp;
+          <a href="https://www.github.com/Suwetaa-Ramesh" target="_blank">
+            <img align="center" alt="GitHub" title="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+          </a>
+          &nbsp;
+          <a href="mailto:suwetaa.ramesh@gmail.com" target="_blank">
+            <img align="center" alt="Email" title="Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />
+          </a>
+        </div>
       </td>
       <td align="center" width="45%">
         <!-- Software Tools -->
@@ -79,7 +75,5 @@
         </div>
       </td>
     </tr>
-    </tr>
   </tbody>
 </table>
-
