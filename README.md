@@ -19,29 +19,25 @@
     <tr>
       <td align="center" width="45%">
         <!-- Most Used Languages -->
-        <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg#gh-dark-mode-only">
           <picture>
             <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab#gh-dark-mode-only" />
           </picture>
-        </a>
-        <a href="https://i.pinimg.com/474x/e2/1f/26/e21f26271474ed3862dae2d3b26e7c70.jpg#gh-light-mode-only">
+  
+
           <picture>
             <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only"/>
           </picture>
-        </a>
+
       </td>
       <td align="center" width="45%">
         <!-- GitHub Stats -->
-        <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-light-mode-only">
           <picture>
             <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5#gh-light-mode-only" width="470"/>
           </picture>
-        </a>
-        <a href="https://i.pinimg.com/736x/73/b3/ed/73b3ed283706b321bd84936c7e41f84f.jpg#gh-dark-mode-only">
+      
           <picture>
             <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=true&&theme=tokyonight&bg_color=310,2b1557,9565ab#gh-dark-mode-only" width="470" />
           </picture>
-        </a>
       </td>
     </tr>
   </thead>
