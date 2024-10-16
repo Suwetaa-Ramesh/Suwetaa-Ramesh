@@ -55,11 +55,19 @@
         <a href="https://github.com/Suwetaa-Ramesh#gh-dark-mode-only">
           <img width="200" src="https://capsule-render.vercel.app/api?type=rounded&text=Let%27s%20Connect&fontSize=70&color=gradient&customColorList=2,9,16,19,20,21,22,23,24,25#gh-dark-mode-only" alt="Let's Connect" /> 
         </a>
-        <div>
-          [<img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />](https://www.linkedin.com/in/suwetaa-ramesh-7b8536115/)
-          &nbsp;[<img align="center" alt="GitHub" title="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />](https://www.github.com/Suwetaa-Ramesh)
-          &nbsp;[<img align="center" alt="Email" title="Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />](mailto:suwetaa.ramesh@gmail.com)
-        </div>
+       <div align="center">
+  <a href="https://www.linkedin.com/in/suwetaa-ramesh-7b8536115/" target="_blank">
+    <img align="center" alt="LinkedIn" title="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" />
+  </a>
+  &nbsp;
+  <a href="https://www.github.com/Suwetaa-Ramesh" target="_blank">
+    <img align="center" alt="GitHub" title="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+  </a>
+  &nbsp;
+  <a href="mailto:suwetaa.ramesh@gmail.com" target="_blank">
+    <img align="center" alt="Email" title="Email" width="24px" src="https://cdn-icons-png.flaticon.com/512/270/270021.png" />
+  </a>
+</div>
       </td>
       <td align="center" width="45%">
         <!-- Software Tools -->
