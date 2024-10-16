@@ -19,17 +19,11 @@
     <tr>
       <td align="center" width="45%">
         <!-- Most Used Languages -->
-        <picture>
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
-        </picture>
-      
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suwetaa-Ramesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=310,2b1557,9565ab" />
       </td>
       <td align="center" width="45%">
         <!-- GitHub Stats -->
-        <picture>
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5" width="470"/>
-        </picture>
-        
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suwetaa-Ramesh&show_icons=true&hide_border=false&theme=buefy&border_color=e6aef5" width="470"/>
       </td>
     </tr>
   </thead>
